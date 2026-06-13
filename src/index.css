@@ -2,7 +2,6 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 @import "@fontsource-variable/inter";
-@import "simplycountdown.js/dist/themes/default.css";
 
 @layer base {
   h1 {
